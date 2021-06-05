@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ernestod10
+- 👀 I’m interested in Unity Game Dev
+- 🌱 I’m currently learning SQL & C#
