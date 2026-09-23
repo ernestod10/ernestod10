@@ -1,4 +1,2 @@
-- Hi, I’m @ernestod10
-- I’m interested in Unity Game Dev
-- Proficent in SQL, Java, Python and C++
-- Currenty learning C#
+SQL, Java, Python and C++
+
